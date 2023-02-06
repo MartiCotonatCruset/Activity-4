@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+/* ADRIA */
+
+/* MARTI */
+body{
+    margin: 0;
+}
+/* MENU */
+.menu{
+    background-color: grey;
+    padding: 5px;
+}
+.menu a{
+    color: white;
+    padding-left: 15px;
+    font-size: larger;
+    text-decoration: none;
+}
+.menu img{
+    width: 30px;
+}
