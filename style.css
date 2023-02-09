@@ -1,3 +1,7 @@
+/* FONT FAMILY */
+html{
+    font-family: 'Lato', sans-serif;
+}
 body{
     margin: 0;
 }
