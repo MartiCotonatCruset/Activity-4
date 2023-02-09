@@ -12,7 +12,7 @@ hr{
 }
 /* MENU */
 #menu{
-    background-color: grey;
+    background-color: rgb(169, 168, 168);
     padding: 5px;
 }
 #menu a{
@@ -50,7 +50,16 @@ hr{
 /* IMG LEFT */
 
 /* IMG RIGHT */
-#imgRight{
+#product2{
     display: flex;
+    justify-content: center;
+    align-items: center;
     width: 100%;
+}
+#pcInfo{
+    background-color: rgb(169, 168, 168);
+    width: 40%;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
