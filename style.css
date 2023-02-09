@@ -1,23 +1,52 @@
 body{
     margin: 0;
 }
-/* ADRIA */
-
-/* MARTI */
-body{
-    margin: 0;
+hr{
+    width: 95%;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 /* MENU */
-.menu{
+#menu{
     background-color: grey;
     padding: 5px;
 }
-.menu a{
+#menu a{
     color: white;
     padding-left: 15px;
     font-size: larger;
     text-decoration: none;
 }
-.menu img{
+#menu img{
     width: 30px;
+}
+
+/* HEADER */
+
+/* TEXT */
+
+/* SERVICES */
+#services{
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+}
+#servicesBox h1{
+    text-align: center;
+}
+#services div{
+    width: 33%;
+    text-align: center;
+}
+#services div img{
+    width: 30%;
+}
+
+/* IMG LEFT */
+
+/* IMG RIGHT */
+#imgRight{
+    display: flex;
+    width: 100%;
 }
