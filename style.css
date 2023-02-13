@@ -1,11 +1,14 @@
+/* FONT FAMILY */
 body{
     margin: 0;
 }
-/* ADRIA */
+/* MENU */
+/* HEADER */
 .img img{
     width:100%;
     height: 300px;
 }
+/* TEXT */
 .div2{
     padding-top: 30px;
     padding-left: 250px;
@@ -24,4 +27,7 @@ body{
     font-weight: 400px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
-/* MARTI */
+/* SERVICES */
+/* IMG LEFT */
+/* IMG RIGHT */
+/* FOOTER */
