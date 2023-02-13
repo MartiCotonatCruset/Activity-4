@@ -1,4 +1,3 @@
-/* FONT FAMILY */
 html{
     font-family: 'Lato', sans-serif;
 }
@@ -10,7 +9,6 @@ hr{
     margin-top: 30px;
     margin-bottom: 30px;
 }
-/* MENU */
 #menu{
     background-color: rgb(169, 168, 168);
     padding: 5px;
@@ -24,7 +22,6 @@ hr{
 #menu img{
     width: 30px;
 }
-/* SERVICES */
 #services{
     width: 100%;
     display: flex;
@@ -41,7 +38,6 @@ hr{
 #services div img{
     width: 30%;
 }
-/* IMG RIGHT */
 #product2{
     display: flex;
     justify-content: center;
