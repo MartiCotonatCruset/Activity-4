@@ -4,6 +4,9 @@ body{
 }
 /* MENU */
 /* HEADER */
+.img{
+    background-color: rgb(169, 168, 168);
+}
 .img img{
     width:100%;
     height: 300px;
@@ -14,20 +17,26 @@ body{
     padding-left: 250px;
     padding-right: 250px;
     padding-bottom: 50px;
-    background-color: aliceblue;
+    background-color: rgb(169, 168, 168);
 }
 .div2P{
     text-align: center;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 .div2H1{
     margin-top: 0;
     text-align: center;
     font-size: 50px;
     font-weight: 400px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 /* SERVICES */
 /* IMG LEFT */
+.imgLeft{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.imgLeftP{
+
+}
+
 /* IMG RIGHT */
-/* FOOTER */
